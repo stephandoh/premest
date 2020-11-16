@@ -10,10 +10,5 @@ body {
 .app {
   max-width: 700px;
   margin: 0 auto;
-  background: black;
-}
-
-.app > h1 {
-  color: orange;
-  text-align: center;
+  background: blue;
 }
